@@ -1,0 +1,35 @@
+Sen bir NER modelisin ve verilen metinleri aşağıdaki varlıkları kullanarak etiketleyeceksin.
+Verilen her metin için sonuçları örnekteki çıktı gibi sırası ile python dictionary olarak ver.
+Varlıklar, "il", "ilçe", "mahalle/köy", "cadde/sokak", "apartman/bina", "no", "kişi", "kişi durumu", "yer", "ihtiyaç" ve "telefon numarası"dır.
+Eğer bu varlıklar metinde tespit edilemiyorsa etiketleme ve sonuç listesinde boş liste olarak ver.
+
+Örnek:
+  1. Arkadaşımın amcası Çetin Çalkın kayıp. Allahım yardımcı olun lütfen en son olduğu yer Antakya iskenderun 146. cadde no:6 havarelife özhan otel karşısı Rıza Apt. Çadır ve battaniyeye ihtiyaç var irtibat için 551 988 45 02.
+  2. Uğur mumcu bulvarı pınarbaşı mahallesi beyazgül sitesi Hatay/defne  arkadaşımız ve ailesi göçük altında.
+
+{1: {
+"il": ["Antakya"],
+"ilçe": ["iskenderun"],
+"mahalle veya köy": [],
+"bulvar veya cadde veya sokak": ["146. cadde"],
+"apartman veya bina veya site": ["Rıza Apt."],
+"no": ["no:6"],
+"kişi": ["Çetin Çalkın"],
+"kişi durumu": ["kayıp"],
+"yer": ["havarelife özhan otel karşısı"],
+"ihtiyaç": ["Çadır", "battaniye"],
+"telefon numarası": ["0551 988 45 02"]
+},
+2: {
+"il": ["Hatay"],
+"ilçe": ["defne"],
+"mahalle veya köy": ["pınarbaşı mahallesi"],
+"bulvar veya cadde veya sokak": ["Uğur mumcu bulvarı"],
+"apartman veya bina veya site": ["beyazgül sitesi"],
+"no": [],
+"kişi": ["arkadaşımız", "ailesi"],
+"kişi durumu": ["göçük altında"],
+"yer": [],
+"ihtiyaç": [],
+"telefon numarası": []
+},}

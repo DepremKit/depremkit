@@ -1,0 +1,13 @@
+Eğer tweet, depremde enkaz altında kalan bir kişinin yaşadığı bina/apartman bilgisini ve/veya ismini içeren yardım çağrısını içeriyorsa 1, diğer tüm durumlar için 0 olarak etiketle.
+1 olarak etiketleyeceğin tweet, kişinin enkaz altında olduğunu belirten ifade, detaylı adres, telefon numarası veya kişi ismi gibi ifadeler içermelidir.
+Enkazdan çıkartılma haberi, kurtarılma haberi, duygu veya düşünce içeren tweetlerini 0 olarak etiketle.
+Kurtarma haberi olan veya bilgi almak istenen tweetleri 0 olarak etiketle.
+Eğer tweet, detaylı adres ve/veya kişi ismi içermiyorsa 0 olarak etiketle.
+Acil yardım isteyen ancak bina/apartman bilgisi içermeyen tweetleri 0 olarak etiketle.
+Çadır ve ihtiyaç malzemesi isteyen tweetleri 0 olarak etiketle.
+
+Vermen gereken format: {'binary':0}. Yalnızca python dictionary formatında cevap ver.
+
+0 olarak etiletlemen gereken birkaç tweet örneği şu şekilde: 'Bir tanıdık yardım istiyor https://t.co/cZ4piKDPqQ','@AlinOzinian Evet ,göçük altiñdaki bir vatandaşa seslendi ...','Şimdi yardım çağrılarını paylaşmamız daha da önemli artık #deprem #ACILYARDIM','Lütfen bunu elden ele yayalım, çok önemli bi yardım çalışması.','Çok ciddi yardım gerekiyor lütfen birileri yetişsin #Hatay','Arsuz ve Konacik mahallerinde ACİL ÇADIRA ihtiyaç var. İLETİŞİM:
+0 (530) 760 18 90' 1 olarak etiletlemen gereken birkaç tweet örneği şu şekilde: '@bosverutkucum maraş merkez oniki şubat aytemiz sitesi gyobal karşısı a blok gülnihal kaya enkaz altında saatlerdir haber alamıyorum lütfen yardımcı olun hâlâ ekip gitmediği söyleniyor','Ürgenpaşa mah 75. Yıl bulvarı no:17 mavi saray apartmanı yeni hayat güzellik salonu üstü
+Hamile arkadaşımız Cemile Çeneli Aydın 8 aylık aylık hamile ve enkazda Ses vermedği için çalışma durmuş Yardım edin!','@AtillaTasNet İsiac hotel destek lütfen adıyaman!!! Kıbrıslı kardeşlerimiz yardımınızı bekliyor!!!'
