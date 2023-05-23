@@ -1,101 +1,101 @@
 id	binary_label	multiclass_label	ner_label
-1623029859541782528	0.0	Bilgi Paylaşımı	{'il': ['Hatay', 'Kahramanmaraş', 'Pazarcık', 'Elbistan', 'Gaziantep', 'Diyarbakır', 'Şanlıurfa', 'Osmaniye', 'Adana', 'Malatya'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1622978903517155328	0.0	Bağış ve Gönüllülük	{'il': ['Hatay', 'Gaziantep', 'Kahramanmaraş'], 'ilçe': ['Dörtyol', 'Şehitkamil', 'Onikişubat', 'Türkoğlu'], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': ['Hidayet Petrol', 'Özemin Petrol', 'Saylak Petrol', 'Nempet Yakıt'], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': ['akaryakıt'], 'telefon numarası': ['0532 603 54 19', '0542 794 58 96', '0531 650 28 31', '0536 034 04 46']}
-1623050005178388480	0.0	İhtiyaç	{'il': ['İstanbul'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1624537370623152128	0.0	Yardım Çağrısı	{'il': [], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1623000831837581312	0.0	Yardım Çağrısı	{'il': ['Hatay'], 'ilçe': ['Kırıkhan'], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': ['kötü durumda'], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1622806624711712768	0.0	Bilgi Paylaşımı	{'il': ['Hatay'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': ['2 küçük çocuk'], 'kişi durumu': ['enkazdan sağ olarak kurtarıldı'], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1624097891336826880	0.0	Bilgi Paylaşımı	{'il': ['Adıyaman'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': ['Halime Aktoprak'], 'kişi durumu': ['Enkaz altından sağ çıkarıldı'], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1624364381805981696	0.0	İhtiyaç	{'il': [], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': ['kronik hastalığı olan', 'sma hastası', 'makinaya bağlı yaşamak zorunda olan'], 'yer': ['deprem bölgesi'], 'ihtiyaç': ['destek'], 'telefon numarası': []}
-1624570410745339904	1.0	Yardım Çağrısı	{'il': ['Adıyaman'], 'ilçe': ['merkez'], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': ['Atatürk bulvarı'], 'apartman veya bina veya site': ['dilek apartmanı 334a'], 'no': [], 'kişi': ['Ruken Güdücü', 'Hızır Güdücü', 'Yasin Küçük'], 'kişi durumu': ['enkaz altında'], 'yer': ['bahçelievler evler'], 'ihtiyaç': [], 'telefon numarası': ['0530 345 90 36', '0533 387 76 34', '+90 552 376 51 82']}
-1624762743910805504	0.0	Bilgi Paylaşımı	{'il': ['Hatay'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': ['hamile bir kadın'], 'kişi durumu': ['enkaz altında', 'kurtarıldı'], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1623016360178483200	0.0	Bilgi Paylaşımı	{'il': ['Gaziantep'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1622726161196322816	0.0	Bilgi Paylaşımı	{'il': [], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': ['bir minik yavrumuz'], 'kişi durumu': ['enkaz altından kurtarıldı'], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1622763094609956864	0.0	Bağış ve Gönüllülük	{'il': ['Adana', 'Hatay'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': ['İspanyolca bilen kişiler'], 'telefon numarası': []}
-1624527981174525952	0.0	Bilgi Paylaşımı	{'il': ['Hatay'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': ['Sultan', 'Ceylan'], 'kişi durumu': ['enkazdan sağ olarak kurtarıldı'], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1622936708663676928	0.0	Bağış ve Gönüllülük	{'il': [], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1623034549205667840	0.0	İhtiyaç	{'il': ['Hatay'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': [], 'telefon numarası': ['05313974444']}
-1622718068249006080	0.0	Yardım Çağrısı	{'il': ['Gaziantep'], 'ilçe': ['Şahinbey'], 'mahalle veya köy': ['İhsaniye'], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1622551944035241984	1.0	Yardım Çağrısı	{'il': ['Adıyaman'], 'ilçe': ['merkez'], 'mahalle veya köy': ['alitaşı mahallesi'], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': ['mercan apartmanı'], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': ['HALA YARDIM GİTMEMİS'], 'telefon numarası': []}
-1623434400124833792	0.0	Yardım Çağrısı	{'il': ['Adıyaman'], 'ilçe': [], 'mahalle veya köy': ['Mehmet Akif mahallesi'], 'bulvar veya cadde veya sokak': ['503. sokak'], 'apartman veya bina veya site': [], 'no': [], 'kişi': ['Gazihan Alagöz'], 'kişi durumu': [], 'yer': [], 'ihtiyaç': ['su', 'yiyecek', 'giyecek'], 'telefon numarası': []}
-1623594813588180992	0.0	İhtiyaç	{'il': ['Hatay'], 'ilçe': ['Antakya'], 'mahalle veya köy': ['Kuruyer köyü'], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': ['her türlü erzak', 'kişisel bakım', 'çadır'], 'telefon numarası': []}
-1622954823963365376	1.0	Yardım Çağrısı	{'il': ['Antakya'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': ['Emlak bank 1 kısım evleri'], 'apartman veya bina veya site': ['7 blok'], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1622466853707698176	0.0	Konu Dışı	{'il': [], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1622764829806153728	0.0	İhtiyaç	{'il': ['Hatay'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': ['Açlık', 'soğuk', 'enkaz altı', 'elektrik', 'su', 'barınma'], 'telefon numarası': []}
-1622837393064660992	0.0	İhtiyaç	{'il': ['Malatya'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': ['çadır', 'yiyecek'], 'telefon numarası': []}
-1623049119177773056	1.0	Bilgi Paylaşımı	{'il': ['Kahramanmaraş'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': ['Emin'], 'kişi durumu': [], 'yer': [], 'ihtiyaç': [], 'telefon numarası': ['canligaste.com/kahramanmaras-…']}
-1622703430199398400	0.0	Yardım Çağrısı	{'il': [], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': ['bebeğimiz'], 'kişi durumu': ['enkaz altından kurtarıldı'], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1623456193338544128	0.0	Bağış ve Gönüllülük	{'il': ['Elbistan'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': [], 'telefon numarası': ['+90 505 046 06 77']}
-1624295591365824512	0.0	Yardım Çağrısı	{'il': ['Diyarbakır'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': ['anne köpek', '2 yavrusu'], 'kişi durumu': [], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1623867950569607168	0.0	Konu Dışı	{'il': ['Hatay'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': ['enkaz altında kalanları'], 'yer': ['Hatay şehri'], 'ihtiyaç': [], 'telefon numarası': []}
-1623063707940179968	0.0	Yardım Çağrısı	{'il': ['Hatay'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1623060311447343104	0.0	Yardım Çağrısı	{'il': [], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': ['Atilla'], 'kişi durumu': ['sağ salim kurtulan'], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1624525701193043968	0.0	Bilgi Paylaşımı	{'il': ['Kahramanmaraş', 'Hatay'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': ['arama kurtarma'], 'telefon numarası': []}
-1622834951145066496	1.0	Yardım Çağrısı	{'il': [], 'ilçe': [], 'mahalle veya köy': ['Ekinci Mahallesi'], 'bulvar veya cadde veya sokak': ['İnönü Bulvarı'], 'apartman veya bina veya site': [], 'no': ['K-NO 78', 'D-NO 18'], 'kişi': ['İdris Kudret'], 'kişi durumu': [], 'yer': [], 'ihtiyaç': ['deprem', 'ronesansrezidans', 'ronesansyardimbekliyor'], 'telefon numarası': []}
-1623508159951151104	0.0	Bilgi Paylaşımı	{'il': [], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': ['vatandaş'], 'kişi durumu': ['enkaz altından çıkarıldı'], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1624836816590217216	0.0	Konu Dışı	{'il': [], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1624741973943787520	0.0	Konu Dışı	{'il': [], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': ['hakaret/iftira'], 'yer': ['deprem bölgesi'], 'ihtiyaç': ['para'], 'telefon numarası': []}
-1622822978965880832	0.0	Bilgi Paylaşımı	{'il': ['Diyarbakır'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': ['yıkılan bina'], 'no': [], 'kişi': ['1 kişi'], 'kişi durumu': ['kurtarıldı'], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1623753563737317376	0.0	Konu Dışı	{'il': [], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1622770520939716608	0.0	Yardım Çağrısı	{'il': ['Hatay'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': ['yardım'], 'telefon numarası': []}
-1622791365930147840	1.0	Yardım Çağrısı	{'il': ['Hatay'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': ['göçük altında'], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1624480025729720320	0.0	Yardım Çağrısı	{'il': ['Gaziantep'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': ['bir aile'], 'kişi durumu': ['yardıma ihtiyaç var'], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1623288608785326080	0.0	İhtiyaç	{'il': ['Hatay'], 'ilçe': [], 'mahalle veya köy': ['akevler'], 'bulvar veya cadde veya sokak': ['torunlarapartman'], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': ['iş makineleri', 'jeneratör'], 'telefon numarası': []}
-1623920764343975936	0.0	Bağış ve Gönüllülük	{'il': ['adiyaman', 'malatya'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': ['Yağma', 'Yardım'], 'telefon numarası': []}
-1624062642003353600	1.0	Yardım Çağrısı	{'il': ['Antakya', 'Hatay'], 'ilçe': [], 'mahalle veya köy': ['Esenlik mah.'], 'bulvar veya cadde veya sokak': ['Şehit Polis Mehmet Yılmaz sok.'], 'apartman veya bina veya site': ['Bales apt.'], 'no': ['No:1'], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': ['makine'], 'telefon numarası': ['0546 594 49 66']}
-1624765011666116608	0.0	Bilgi Paylaşımı	{'il': ['Hatay'], 'ilçe': ['Antakya'], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': ['Hüseyin Seferoğlu'], 'kişi durumu': ['zihinsel engelli', 'sağ'], 'yer': ['enkazdan'], 'ihtiyaç': [], 'telefon numarası': []}
-1622453904096075776	0.0	Yardım Çağrısı	{'il': [], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1622678962072690688	0.0	Yardım Çağrısı	{'il': [], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': ['Atsu'], 'kişi durumu': [], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1624563834005463040	0.0	Bağış ve Gönüllülük	{'il': [], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': ['İç çamaşırı', 'ped', 'yaşlı bezi', 'ıslak mendil'], 'telefon numarası': []}
-1623969998380179712	0.0	Bilgi Paylaşımı	{'il': ['Türkiye'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': ['prayforturkey'], 'telefon numarası': []}
-1624732288452796416	1.0	Yardım Çağrısı	{'il': ['Hatay'], 'ilçe': ['Defne'], 'mahalle veya köy': ['Sümerler mahallesi'], 'bulvar veya cadde veya sokak': ['Şükrü Güçlü Caddesi'], 'apartman veya bina veya site': ['Asel apartmanı'], 'no': [], 'kişi': ['Hazar Çulhacıoğlu'], 'kişi durumu': ['enkazda'], 'yer': ['Selim Nevzat Şahin Anadolu lisesi karşısı'], 'ihtiyaç': ['Enkazın kaldırılması gerekiyor'], 'telefon numarası': ['0538 584 81 44']}
-1622899898373775360	0.0	Yardım Çağrısı	{'il': ['Türkiye'], 'ilçe': ['Kahramanmaraş', 'Hatay', 'Gaziantep', 'Osmaniye', 'Adıyaman', 'Malatya', 'Adana'], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': ['can kaybı', 'yaralı'], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1622768681582206976	0.0	Bağış ve Gönüllülük	{'il': ['Hatay', 'Elbistan'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1623144718782570496	0.0	Bilgi Paylaşımı	{'il': ['Hatay', 'Antakya'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1622756512794828800	0.0	İhtiyaç	{'il': ['Hatay'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': ['elinde iş makinesi', 'vinç'], 'telefon numarası': []}
-1624154888170004480	0.0	Konu Dışı	{'il': ['Hatay'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1624806040398094336	0.0	Bilgi Paylaşımı	{'il': ['Hatay'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': ['bir erkek', '6 aylık hamile bir kadın'], 'kişi durumu': ['enkaz altından kurtarıldı'], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1622816804698742784	0.0	Bilgi Paylaşımı	{'il': ['Kahramanmaraş', 'Hatay', 'Osmaniye', 'Diyarbakır'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': ['kurtarma çalışmaları devam ediyor'], 'yer': ['mynet.com/mucize-kurtulu'], 'ihtiyaç': [], 'telefon numarası': []}
-1623339495360716800	0.0	Bağış ve Gönüllülük	{'il': ['Kahramanmaraş', 'Adıyaman', 'Hatay'], 'ilçe': ['Elbistan', 'iskenderun'], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': ['Hüseyin Baş', 'Bağımsız Türkiye Sevdalıları'], 'kişi durumu': [], 'yer': [], 'ihtiyaç': ['deprem', 'seferberlik'], 'telefon numarası': []}
-1622814682636750848	0.0	Bilgi Paylaşımı	{'il': ['Hatay', 'Osmaniye'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': ['enkazdan kurtarıldı'], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1623809954904952832	0.0	İhtiyaç	{'il': ['Hatay'], 'ilçe': ['Antakya'], 'mahalle veya köy': ['Güzelburç Mahallesi'], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': ['SELİNAY ÇİFTÇİ'], 'kişi durumu': [], 'yer': ['Eski Risus Restaurant Arkası', 'Özel Berk Okullarının Arkası (ÇADIRDALAR)'], 'ihtiyaç': ['POWERBANK', 'BATTANİYE', 'PEÇETE', 'YAKIT'], 'telefon numarası': ['0539 487 21 29']}
-1623119543190056960	0.0	Konu Dışı	{'il': [], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': ['enkaz altındakilere yardım', 'dışarıda kalanlara yardım'], 'telefon numarası': []}
-1624241587566833664	1.0	Yardım Çağrısı	{'il': ['Hatay'], 'ilçe': ['Defne'], 'mahalle veya köy': ['Armutlu mahallesi'], 'bulvar veya cadde veya sokak': ['söğütlü sokak'], 'apartman veya bina veya site': ['Ahmet akbay apartmanı'], 'no': ['dış kapı no 29'], 'kişi': ['Meral sarı', 'iki çocuğu'], 'kişi durumu': ['göçük altında'], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1623807040987463680	0.0	İhtiyaç	{'il': ['Kahramanmaraş'], 'ilçe': ['Dulkadiroğlu'], 'mahalle veya köy': ['Şeyh Şamil Mahallesi'], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': ['Seher Bozbayır'], 'kişi durumu': [], 'yer': [], 'ihtiyaç': ['Çadır', 'kuru gıda'], 'telefon numarası': ['05358763087']}
-1622996922037415936	0.0	Bağış ve Gönüllülük	{'il': ['-'], 'ilçe': ['-'], 'mahalle veya köy': ['-'], 'bulvar veya cadde veya sokak': ['-'], 'apartman veya bina veya site': ['-'], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': ['çorap', 'ısıtıcı', 'mont', 'bot'], 'telefon numarası': []}
-1624041453709144064	0.0	Yardım Çağrısı	{'il': ['Hatay'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': ['iki vatandaş'], 'kişi durumu': ['enkaz altından kurtarıldı'], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1622939932699373568	0.0	Bilgi Paylaşımı	{'il': ['Adana'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': ['şehir hastanesi'], 'no': [], 'kişi': [], 'kişi durumu': ['YAKINLARININ BİLGİSİ'], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1624094283178422272	0.0	Konu Dışı	{'il': ['Kahramanmaraş'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1624099564910260224	0.0	İhtiyaç	{'il': ['Denizli'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': ['Otogar'], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': ['Çadır'], 'telefon numarası': []}
-1623003301938704384	0.0	Yardım Çağrısı	{'il': [], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': ['arkadaşımın ablası'], 'kişi durumu': [], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1622699219730542592	0.0	Yardım Çağrısı	{'il': ['Kahramanmaraş'], 'ilçe': ['Afşin'], 'mahalle veya köy': ['Afşinbey Mahallesi'], 'bulvar veya cadde veya sokak': ['Afşinbey Caddesi'], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': [], 'telefon numarası': ['ulaşın']}
-1623308028995948288	0.0	Bilgi Paylaşımı	{'il': ['Kahramanmaraş'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': ['4 yaşında bir kız çocuğu'], 'kişi durumu': ['enkazdan sağ olarak çıkarıldı'], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1624872287731085312	1.0	Yardım Çağrısı	{'il': ['Hatay'], 'ilçe': [], 'mahalle veya köy': ['Camseki mahhallesi'], 'bulvar veya cadde veya sokak': ['emerce sokak'], 'apartman veya bina veya site': [], 'no': ['no 6'], 'kişi': [], 'kişi durumu': ['bebekli aile'], 'yer': [], 'ihtiyaç': ['çadır', 'gıda', 'ısıtıcı', 'battaniye'], 'telefon numarası': []}
-1624327359745650688	0.0	Bağış ve Gönüllülük	{'il': ['İstanbul'], 'ilçe': ['Şişli'], 'mahalle veya köy': ['Teşvikiye'], 'bulvar veya cadde veya sokak': ['poyracık sokak'], 'apartman veya bina veya site': [], 'no': ['no 65'], 'kişi': [], 'kişi durumu': [], 'yer': ['okulumuzun spor salonu'], 'ihtiyaç': [], 'telefon numarası': ['0553 181 42 54']}
-1624834448066768896	0.0	Yardım Çağrısı	{'il': ['Hatay'], 'ilçe': ['iskenderun'], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': ['Güler teyze'], 'kişi durumu': ['enkazdan sağ olarak çıkarıldı'], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1622832639936720896	1.0	İhtiyaç	{'il': ['Hatay'], 'ilçe': ['Kırıkhan'], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': ['yemek', 'giyim', 'çadır'], 'telefon numarası': []}
-1624021718581800960	0.0	Bağış ve Gönüllülük	{'il': [], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': ['okulumuz'], 'no': [], 'kişi': ['alan şefleri', 'öğretmenlerimiz', 'teknisyen', 'öğrencilerimiz'], 'kişi durumu': [], 'yer': [], 'ihtiyaç': ['soba', 'ara kablo'], 'telefon numarası': []}
-1624385642384719872	1.0	Yardım Çağrısı	{'il': ['Hatay'], 'ilçe': ['Antakya'], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': ['AHMET SAYAR APARTMANI'], 'apartman veya bina veya site': [], 'no': [], 'kişi': ['NihaL Arat'], 'kişi durumu': ['göçük altında'], 'yer': ['GÜLCÜ ELEKTRONİK MİGROS KARŞISI'], 'ihtiyaç': [], 'telefon numarası': ['0534 480 49 50']}
-1624697653173813248	1.0	Yardım Çağrısı	{'il': [], 'ilçe': [], 'mahalle veya köy': ['Cebrail mahallesi'], 'bulvar veya cadde veya sokak': ['Ayşe Fitnat Hanım caddesi'], 'apartman veya bina veya site': ['Fuat Seçkin apartmanı'], 'no': [], 'kişi': ['Şebnem Karaçadır', 'kardeşi'], 'kişi durumu': ['enkaz altında'], 'yer': ['valigöbeği antakya'], 'ihtiyaç': ['eksikavatör', 'kepçe'], 'telefon numarası': []}
-1623506264310312960	0.0	İhtiyaç	{'il': ['Hatay'], 'ilçe': ['iskenderun'], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': ['EXPO FUAR ALANI'], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': ['erzak'], 'telefon numarası': []}
-1622678813430673408	0.0	Bağış ve Gönüllülük	{'il': ['Türkiye'], 'ilçe': ['Kahramanmaraş', 'Adana', 'Diyarbakır', 'Malatya'], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1622983057048236032	0.0	Yardım Çağrısı	{'il': ['Hatay'], 'ilçe': ['Kırıkhan'], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': ['Suriyeli 3 kardeş'], 'kişi durumu': ['depremden saatler sonra enkaz altından sağ olarak kurtarıldı'], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1622957502202511360	0.0	Konu Dışı	{'il': ['Kahramanmaraş', 'İstanbul'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': ['ailesi vefat edenler'], 'kişi durumu': [], 'yer': [], 'ihtiyaç': ['geçim'], 'telefon numarası': []}
-1622987831730634752	0.0	Yardım Çağrısı	{'il': ['Hatay'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': ['kurtarıldı'], 'telefon numarası': []}
-1622813683792347136	0.0	Bağış ve Gönüllülük	{'il': [], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': ['öğretmen'], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1624648659710115840	0.0	Konu Dışı	{'il': [], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1624123648788267008	1.0	Yardım Çağrısı	{'il': ['Adıyaman'], 'ilçe': ['besni'], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': ['Üzümlükent sitesi'], 'no': [], 'kişi': ['Melike Arıyürek'], 'kişi durumu': ['enkazda'], 'yer': ['Arı Apt. Karşısında'], 'ihtiyaç': ['ses ısı'], 'telefon numarası': []}
-1623053161186598912	0.0	İhtiyaç	{'il': [], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': ['açlık', 'susuzluk', 'kıyafet'], 'telefon numarası': []}
-1623841546591141888	0.0	İhtiyaç	{'il': ['Adıyaman'], 'ilçe': ['Gölbaşı'], 'mahalle veya köy': ['Yarbaşı köyü'], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': ['çadır', 'ısıtıcı'], 'telefon numarası': []}
-1622925271497146368	0.0	Bağış ve Gönüllülük	{'il': ['Hatay'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1622711660925386752	0.0	Konu Dışı	{'il': ['Hatay'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1624084690352177152	0.0	Bağış ve Gönüllülük	{'il': ['Türkiye'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': ['Deprem zedeleri'], 'yer': [], 'ihtiyaç': ['yardım'], 'telefon numarası': []}
-1622714899251036160	0.0	Bağış ve Gönüllülük	{'il': ['deprem bölgesi'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': ['oteller'], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': ['kapılarını ücretsiz açma'], 'telefon numarası': []}
-1622782600401092608	0.0	Yardım Çağrısı	{'il': ['Hatay'], 'ilçe': ['İskenderun'], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': ['Raif Paşa Caddesi'], 'apartman veya bina veya site': [], 'no': ['31300'], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1624045737582493696	0.0	Yardım Çağrısı	{'il': ['Adıyaman'], 'ilçe': ['merkez'], 'mahalle veya köy': ['yavuz selim mahallesi'], 'bulvar veya cadde veya sokak': ['hastane caddesi'], 'apartman veya bina veya site': [], 'no': [], 'kişi': ['DAMLA SAYIN'], 'kişi durumu': ['depremzede', 'sağ'], 'yer': [], 'ihtiyaç': [], 'telefon numarası': ['0536 981 16 01']}
-1622878904301109248	1.0	Yardım Çağrısı	{'il': ['Antakya'], 'ilçe': ['iskenderun'], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': ['iskenderun yolu'], 'apartman veya bina veya site': ['havarelife özhan otel'], 'no': ['no 146'], 'kişi': ['Çetin Çalkın'], 'kişi durumu': ['kayıp'], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1624523420556836864	1.0	Yardım Çağrısı	{'il': ['Antakya'], 'ilçe': [], 'mahalle veya köy': ['cumhuriyet mah.'], 'bulvar veya cadde veya sokak': ['İpek sokak'], 'apartman veya bina veya site': ['Uçar sitesi', 'B blok'], 'no': ['4. Kat'], 'kişi': ['Birsen Yaman', 'Mustafa Berk Yaman', 'Zeynep Yaman', 'Mehmet Yaman'], 'kişi durumu': [], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1622913466196541440	1.0	Yardım Çağrısı	{'il': ['Gaziantep', 'Nurdağı'], 'ilçe': ['Nurdağı'], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': ['Nurdağı oteli'], 'no': [], 'kişi': ['mühendisleriniz'], 'kişi durumu': ['haber alınamıyor', 'enkaz altında'], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1622802861015941120	0.0	Konu Dışı	{'il': ['Gaziantep', 'Hatay', 'Kahramanmaras', 'iskenderun'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1624663203618734080	0.0	Konu Dışı	{'il': ['Kahramanmaraş'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': [], 'no': [], 'kişi': [], 'kişi durumu': [], 'yer': [], 'ihtiyaç': [], 'telefon numarası': []}
-1622975967760203776	1.0	Yardım Çağrısı	{'il': ['Hatay'], 'ilçe': [], 'mahalle veya köy': [], 'bulvar veya cadde veya sokak': [], 'apartman veya bina veya site': ['Tuba apartmanı'], 'no': [], 'kişi': ['Müjdat Kuseyrioglu', 'Ayşıl Kuseyrioglu'], 'kişi durumu': ['haber alınamadı'], 'yer': ['Hatay büyükşehir belediye binası arkası'], 'ihtiyaç': [], 'telefon numarası': []}
+1623029859541782528	0.0	Bilgi Paylaşımı	[]
+1622978903517155328	0.0	Bağış ve Gönüllülük	[]
+1623050005178388480	0.0	İhtiyaç	[]
+1624537370623152128	0.0	Yardım Çağrısı	[]
+1623000831837581312	0.0	Yardım Çağrısı	[[206, 211, 'il'], [185, 190, 'il'], [72, 77, 'il'], [211, 219, 'ilçe'], [78, 86, 'ilçe'], [122, 134, 'kişi durumu']]
+1622806624711712768	0.0	Bilgi Paylaşımı	[]
+1624097891336826880	0.0	Bilgi Paylaşımı	[]
+1624364381805981696	0.0	İhtiyaç	[[43, 54, 'kişi durumu'], [20, 41, 'kişi durumu'], [55, 90, 'kişi durumu'], [103, 117, 'yer'], [121, 127, 'ihtiyaç']]
+1624570410745339904	1.0	Yardım Çağrısı	[[158, 166, 'il'], [167, 173, 'ilçe'], [102, 117, 'bulvar veya cadde veya sokak'], [137, 157, 'apartman veya bina veya site'], [205, 217, 'kişi'], [221, 232, 'kişi'], [0, 12, 'kişi'], [87, 100, 'kişi durumu'], [118, 136, 'yer']]
+1624762743910805504	0.0	Bilgi Paylaşımı	[]
+1623016360178483200	0.0	Bilgi Paylaşımı	[]
+1622726161196322816	0.0	Bilgi Paylaşımı	[]
+1622763094609956864	0.0	Bağış ve Gönüllülük	[]
+1624527981174525952	0.0	Bilgi Paylaşımı	[]
+1622936708663676928	0.0	Bağış ve Gönüllülük	[]
+1623034549205667840	0.0	İhtiyaç	[]
+1622718068249006080	0.0	Yardım Çağrısı	[[35, 43, 'mahalle veya köy']]
+1622551944035241984	1.0	Yardım Çağrısı	[[35, 43, 'il'], [44, 50, 'ilçe'], [0, 17, 'mahalle veya köy'], [18, 34, 'apartman veya bina veya site'], [51, 71, 'ihtiyaç']]
+1623434400124833792	0.0	Yardım Çağrısı	[[167, 175, 'il'], [109, 117, 'il'], [118, 139, 'mahalle veya köy'], [140, 150, 'bulvar veya cadde veya sokak'], [151, 165, 'kişi'], [73, 80, 'ihtiyaç'], [69, 71, 'ihtiyaç'], [82, 89, 'ihtiyaç']]
+1623594813588180992	0.0	İhtiyaç	[[0, 5, 'il'], [6, 13, 'ilçe'], [14, 26, 'mahalle veya köy'], [46, 59, 'ihtiyaç'], [60, 65, 'ihtiyaç'], [30, 45, 'ihtiyaç']]
+1622954823963365376	1.0	Yardım Çağrısı	[[24, 31, 'il'], [32, 57, 'bulvar veya cadde veya sokak'], [60, 66, 'apartman veya bina veya site'], [24, 28, 'kişi']]
+1622466853707698176	0.0	Konu Dışı	[]
+1622764829806153728	0.0	İhtiyaç	[[237, 242, 'il'], [229, 234, 'il'], [16, 26, 'ihtiyaç'], [28, 36, 'ihtiyaç'], [8, 13, 'ihtiyaç'], [0, 5, 'ihtiyaç'], [38, 40, 'ihtiyaç'], [42, 49, 'ihtiyaç']]
+1622837393064660992	0.0	İhtiyaç	[[19, 26, 'il'], [50, 57, 'ihtiyaç'], [40, 45, 'ihtiyaç']]
+1623049119177773056	1.0	Bilgi Paylaşımı	[]
+1622703430199398400	0.0	Yardım Çağrısı	[]
+1623456193338544128	0.0	Bağış ve Gönüllülük	[]
+1624295591365824512	0.0	Yardım Çağrısı	[]
+1623867950569607168	0.0	Konu Dışı	[]
+1623063707940179968	0.0	Yardım Çağrısı	[]
+1623060311447343104	0.0	Yardım Çağrısı	[]
+1624525701193043968	0.0	Bilgi Paylaşımı	[]
+1622834951145066496	1.0	Yardım Çağrısı	[[157, 170, 'bulvar veya cadde veya sokak'], [183, 190, 'no'], [173, 180, 'no'], [129, 141, 'kişi'], [192, 198, 'ihtiyaç']]
+1623508159951151104	0.0	Bilgi Paylaşımı	[]
+1624836816590217216	0.0	Konu Dışı	[]
+1624741973943787520	0.0	Konu Dışı	[]
+1622822978965880832	0.0	Bilgi Paylaşımı	[]
+1623753563737317376	0.0	Konu Dışı	[]
+1622770520939716608	0.0	Yardım Çağrısı	[[53, 58, 'il'], [10, 16, 'ihtiyaç']]
+1622791365930147840	1.0	Yardım Çağrısı	[]
+1624480025729720320	0.0	Yardım Çağrısı	[[0, 9, 'il'], [21, 29, 'kişi'], [35, 54, 'kişi durumu']]
+1623288608785326080	0.0	İhtiyaç	[[172, 177, 'il'], [179, 186, 'mahalle veya köy'], [189, 205, 'bulvar veya cadde veya sokak'], [0, 13, 'ihtiyaç'], [16, 25, 'ihtiyaç']]
+1623920764343975936	0.0	Bağış ve Gönüllülük	[]
+1624062642003353600	1.0	Yardım Çağrısı	[[88, 95, 'il'], [96, 101, 'il'], [28, 40, 'mahalle veya köy'], [41, 71, 'bulvar veya cadde veya sokak'], [72, 82, 'apartman veya bina veya site'], [192, 196, 'no'], [83, 87, 'no'], [234, 247, 'kişi durumu'], [103, 109, 'ihtiyaç']]
+1624765011666116608	0.0	Bilgi Paylaşımı	[]
+1622453904096075776	0.0	Yardım Çağrısı	[]
+1622678962072690688	0.0	Yardım Çağrısı	[]
+1624563834005463040	0.0	Bağış ve Gönüllülük	[[206, 217, 'ihtiyaç'], [219, 222, 'ihtiyaç'], [236, 248, 'ihtiyaç'], [224, 234, 'ihtiyaç']]
+1623969998380179712	0.0	Bilgi Paylaşımı	[]
+1624732288452796416	1.0	Yardım Çağrısı	[[187, 192, 'il'], [180, 185, 'ilçe'], [80, 98, 'mahalle veya köy'], [99, 118, 'bulvar veya cadde veya sokak'], [119, 133, 'apartman veya bina veya site'], [193, 210, 'kişi'], [7, 14, 'kişi durumu'], [136, 177, 'yer'], [16, 46, 'ihtiyaç']]
+1622899898373775360	0.0	Yardım Çağrısı	[]
+1622768681582206976	0.0	Bağış ve Gönüllülük	[]
+1623144718782570496	0.0	Bilgi Paylaşımı	[]
+1622756512794828800	0.0	İhtiyaç	[[168, 173, 'il'], [101, 106, 'il'], [189, 194, 'il'], [0, 12, 'ihtiyaç'], [196, 200, 'ihtiyaç'], [64, 82, 'ihtiyaç']]
+1624154888170004480	0.0	Konu Dışı	[]
+1624806040398094336	0.0	Bilgi Paylaşımı	[]
+1622816804698742784	0.0	Bilgi Paylaşımı	[]
+1623339495360716800	0.0	Bağış ve Gönüllülük	[]
+1622814682636750848	0.0	Bilgi Paylaşımı	[]
+1623809954904952832	0.0	İhtiyaç	[[14, 19, 'il'], [20, 27, 'ilçe'], [86, 105, 'mahalle veya köy'], [178, 192, 'kişi'], [106, 134, 'yer'], [113, 115, 'ihtiyaç'], [46, 55, 'ihtiyaç'], [35, 44, 'ihtiyaç'], [57, 63, 'ihtiyaç'], [65, 70, 'ihtiyaç']]
+1623119543190056960	0.0	Konu Dışı	[]
+1624241587566833664	1.0	Yardım Çağrısı	[[78, 83, 'il'], [70, 75, 'ilçe'], [0, 17, 'mahalle veya köy'], [18, 31, 'bulvar veya cadde veya sokak'], [32, 53, 'apartman veya bina veya site'], [54, 68, 'no'], [98, 108, 'kişi'], [84, 94, 'kişi'], [109, 122, 'kişi durumu']]
+1623807040987463680	0.0	İhtiyaç	[[34, 47, 'il'], [21, 33, 'ilçe'], [0, 20, 'mahalle veya köy'], [49, 63, 'kişi'], [76, 81, 'ihtiyaç'], [85, 94, 'ihtiyaç']]
+1622996922037415936	0.0	Bağış ve Gönüllülük	[]
+1624041453709144064	0.0	Yardım Çağrısı	[]
+1622939932699373568	0.0	Bilgi Paylaşımı	[]
+1624094283178422272	0.0	Konu Dışı	[]
+1624099564910260224	0.0	İhtiyaç	[]
+1623003301938704384	0.0	Yardım Çağrısı	[[15, 33, 'kişi']]
+1622699219730542592	0.0	Yardım Çağrısı	[[32, 37, 'ilçe'], [7, 12, 'ilçe'], [13, 18, 'ilçe'], [13, 31, 'mahalle veya köy'], [32, 48, 'bulvar veya cadde veya sokak']]
+1623308028995948288	0.0	Bilgi Paylaşımı	[]
+1624872287731085312	1.0	Yardım Çağrısı	[[236, 241, 'il'], [9, 14, 'il'], [15, 33, 'mahalle veya köy'], [34, 46, 'bulvar veya cadde veya sokak'], [47, 51, 'no'], [52, 64, 'kişi durumu'], [173, 178, 'ihtiyaç'], [192, 201, 'ihtiyaç'], [179, 183, 'ihtiyaç'], [184, 191, 'ihtiyaç']]
+1624327359745650688	0.0	Bağış ve Gönüllülük	[]
+1624834448066768896	0.0	Yardım Çağrısı	[]
+1622832639936720896	1.0	İhtiyaç	[[133, 138, 'il'], [254, 259, 'il'], [139, 147, 'ilçe'], [13, 18, 'ihtiyaç'], [20, 25, 'ihtiyaç'], [6, 11, 'ihtiyaç']]
+1624021718581800960	0.0	Bağış ve Gönüllülük	[]
+1624385642384719872	1.0	Yardım Çağrısı	[[177, 182, 'il'], [169, 176, 'ilçe'], [147, 168, 'bulvar veya cadde veya sokak'], [56, 66, 'kişi'], [67, 80, 'kişi durumu'], [115, 146, 'yer']]
+1624697653173813248	1.0	Yardım Çağrısı	[[40, 42, 'il'], [115, 117, 'il'], [64, 66, 'il'], [91, 93, 'il'], [110, 127, 'mahalle veya köy'], [128, 153, 'bulvar veya cadde veya sokak'], [154, 175, 'apartman veya bina veya site'], [32, 39, 'kişi'], [0, 16, 'kişi'], [17, 30, 'kişi durumu'], [176, 194, 'yer'], [68, 73, 'ihtiyaç']]
+1623506264310312960	0.0	İhtiyaç	[]
+1622678813430673408	0.0	Bağış ve Gönüllülük	[]
+1622983057048236032	0.0	Yardım Çağrısı	[]
+1622957502202511360	0.0	Konu Dışı	[]
+1622987831730634752	0.0	Yardım Çağrısı	[]
+1622813683792347136	0.0	Bağış ve Gönüllülük	[]
+1624648659710115840	0.0	Konu Dışı	[]
+1624123648788267008	1.0	Yardım Çağrısı	[[0, 8, 'il'], [9, 14, 'ilçe'], [55, 72, 'apartman veya bina veya site'], [167, 182, 'kişi'], [188, 195, 'kişi durumu'], [35, 54, 'yer'], [87, 94, 'ihtiyaç']]
+1623053161186598912	0.0	İhtiyaç	[]
+1623841546591141888	0.0	İhtiyaç	[[0, 8, 'il'], [9, 16, 'ilçe'], [21, 33, 'mahalle veya köy'], [89, 94, 'ihtiyaç'], [98, 105, 'ihtiyaç'], [57, 62, 'ihtiyaç']]
+1622925271497146368	0.0	Bağış ve Gönüllülük	[]
+1622711660925386752	0.0	Konu Dışı	[]
+1624084690352177152	0.0	Bağış ve Gönüllülük	[]
+1622714899251036160	0.0	Bağış ve Gönüllülük	[]
+1622782600401092608	0.0	Yardım Çağrısı	[]
+1624045737582493696	0.0	Yardım Çağrısı	[[27, 35, 'il'], [36, 42, 'ilçe'], [43, 64, 'mahalle veya köy'], [65, 80, 'bulvar veya cadde veya sokak'], [14, 25, 'kişi'], [172, 182, 'kişi durumu'], [96, 99, 'kişi durumu']]
+1622878904301109248	1.0	Yardım Çağrısı	[[109, 116, 'il'], [117, 127, 'ilçe'], [109, 116, 'ilçe'], [117, 132, 'bulvar veya cadde veya sokak'], [140, 161, 'apartman veya bina veya site'], [133, 139, 'no'], [19, 31, 'kişi'], [85, 90, 'kişi durumu']]
+1624523420556836864	1.0	Yardım Çağrısı	[[94, 101, 'il'], [102, 117, 'mahalle veya köy'], [121, 131, 'bulvar veya cadde veya sokak'], [144, 150, 'apartman veya bina veya site'], [132, 143, 'apartman veya bina veya site'], [151, 157, 'no'], [35, 47, 'kişi'], [48, 66, 'kişi'], [67, 79, 'kişi'], [80, 92, 'kişi']]
+1622913466196541440	1.0	Yardım Çağrısı	[[0, 9, 'il'], [12, 19, 'il'], [22, 29, 'il'], [12, 19, 'ilçe'], [22, 29, 'ilçe'], [22, 35, 'apartman veya bina veya site'], [53, 68, 'kişi'], [90, 103, 'kişi durumu'], [72, 86, 'kişi durumu']]
+1622802861015941120	0.0	Konu Dışı	[]
+1624663203618734080	0.0	Konu Dışı	[]
+1622975967760203776	1.0	Yardım Çağrısı	[[124, 129, 'il'], [0, 5, 'il'], [40, 54, 'apartman veya bina veya site'], [56, 83, 'kişi'], [66, 83, 'kişi'], [84, 99, 'kişi durumu'], [0, 39, 'yer']]
