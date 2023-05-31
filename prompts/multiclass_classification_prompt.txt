@@ -1,0 +1,33 @@
+Tweet metinlerini sınıflandıran bir çoklu sınıflandırıcı olarak davran. Sınıflar aşağıdadır.
+
+1. Yardım Çağrısı
+2. İhtiyaç
+3. Bağış ve Gönüllülük
+4. Bilgi Paylaşımı
+5. Konu Dışı
+
+Sınıflandırmayı yaparken aşağıdaki kurallara mutlaka uy.
+- Enkaz altında bulunan ve kurtarılmayı bekleyen insanların adı, adresi gibi bilgiler verilerek paylaşılan tüm tweetler "Yardım Çağrısı" sınıfına aittir.
+- Haber alınamayan, ulaşılamayan insanların adı, adresi gibi bilgiler verilerek paylaşılan tüm tweetler "Yardım Çağrısı" sınıfına aittir.
+- Dua içeren veya yaratıcıdan yardım isteyen tweetler kesinlikle "Yardım Çağrısı" sınıfına ait değildir.
+- Enkaz altından insanların kurtarıldığına dair bilgi içeren tweetler kesinlikle "Yardım Çağrısı" sınıfına ait değildir.
+- Deprem bölgesinde bulunan, aç ve susuz, kalacak yeri bulunmayan, temel ihtiyaçları eksik olan insanların adı ve adreslerini veren tüm tweetler "İhtiyaç" sınıfına aittir.
+- Çadır, battaniye, gıda, su, seyyar tuvalet, bez, mama, benzin, mazot gibi ihtiyaç türü belirtilerek paylaşılan tüm tweetler "İhtiyaç" sınıfına aittir.
+- Yağma ve güvenlik sorunu, salgın gibi sorunlarla ile ilgili yardım isteyen tweetler "İhtiyaç" sınıfına aittir.
+- İhtiyaç tipi belirtilerek deprem bölgesine gönderilmesi talebi içeren tüm tweetler "İhtiyaç" sınıfına aittir.
+- Yardım tırı, gıda, su, kalacak yer, maddi yardım ve malzeme yardımların yapıldığı bölgeler, bu yardımları yapan insanların adı, adresi, telefon numarası gibi bilgileri veren tüm tweetler "Bağış ve Gönüllülük" sınıfına aittir.
+- Kurtarma ekibi gönüllüleri veya vinç operatörü gönüllüleri ile ilgili tüm tweetler "Bağış ve Gönüllülük" sınıfına aittir.
+- Şahıslar ve ülkeler tarafından deprem bölgesine gönderilen maddi bağışlar, kurtarma ekipleri ve yardım malzemeleri ile ilgili haberleri içeren tweetler "Bağış ve Gönüllülük" sınıfına aittir.
+- Enkazdan insanların kurtarıldığına dair bilgi içeren tüm tweetler "Bilgi Paylaşımı" sınıfına aittir.
+- Siyasilerin ve yetkililerin açıklamalarını içeren tüm tweetler "Bilgi Paylaşımı" sınıfına aittir.
+- Afet yönetimi ile ilgili geliştirilen uygulamalar veya sistemler, ihbar hatları, deprem sırasında ve sonrasında yapılması gerekenlerle ilgili önerileri içeren tüm tweetler "Bilgi Paylaşımı" sınıfına aittir.
+- Enkaz altından insanların kurtarıldığına dair bilgi içeren tweetler "Bilgi Paylaşımı" sınıfına aittir.
+- Depremle doğrudan ilişkili olmayan tüm tweetler "Konu Dışı" sınıfına aittir.
+- Manevi destek, minnet veya iyi dilek içeren, deprem bölgesindeki insanlarla empati kuran, depremden dolayı korku, uyuyamama sorunlarını belirten tüm tweetler "Konu Dışı" sınıfına aittir.
+- Yaratıcıdan yardım isteyen tweetler "Konu Dışı" sınıfına aittir.
+- Şahıslara, devlete, yardım kuruluşlarına, şirketlere vs. yapılan öznel yorumlar, sitemler ve eleştiriler içeren tweetler "Konu Dışı" sınıfına aittir.
+
+Tweet'ler listesinde bulunan her bir tweet için, tweetin içeriğini en iyi temsil eden sınıfı seçin. Sonucu, çıktı formatına uygun şekilde string tipinde değerler tutan bir Python listesi olarak dönün. Çıktıda sadece bu liste bulunsun, ek metin bulunmasın.
+
+Örnek çıktı formatı aşağıdadır. Çıktının bu formata uygun olması gerekmektedir.
+["İhtiyaç", "Bilgi Paylaşımı"]
